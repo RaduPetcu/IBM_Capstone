@@ -12,4 +12,11 @@ His question is:
 
 "What neighborhood in NYC would be the best fit for opening up a steaknouse shop based on the places already freqvented by other "meat lovers".
 
+Data Sources for the Project:
+
+I will use the following datasets that are already used in the course.
+
+1) NY Neighborhood Data - https://ibm.box.com/shared/static/fbpwbovar7lf8p5sgddm06cgipa2rxpe.json & https://geo.nyu.edu/catalog/nyu_2451_34572
+
+3) Foursquare Location Data (Venues [Restaurants, Community Centers], TOP tips, Favorites, User Experience, etc) will be used to cluster, segment, target, and position to craft recommendations for suitable location to open up a vegan ice-cream shop. Using the data available in the above sources, I will be conducting clustering and neighborhood based analysis leveraging primarily Foursquare APIs and tools such as KNN and relevant unsupervised learning methods to deliver recommendation options to the client.
 
